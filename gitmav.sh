@@ -1,2 +1,2 @@
 #!/bin/bash
-open spotify://track:1GYYqJlTVKrz6NUMbokAYm -g &
+open spotify://track:2RtnoUsvJg3wMgMeEhG6fr -g &
